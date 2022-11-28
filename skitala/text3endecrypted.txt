@@ -1,0 +1,13 @@
+While there are clear commonalities between the BABOK and PMBOK Knowledge Areas, each has its own 
+uniqueness when explored in depth.  An orientation to project management versus business analysis is 
+a clear distinction.  For example, it is the project manager’s job to ensure that the scope is well 
+defined.  It might be a business analyst who is delegated that responsibility as part of the team.  Or, 
+it could be a small enough project where the project manager defines the scope and even gathers the 
+detailed requirements.  In such a situation, you could say that the project manager is playing multiple
+ roles.Given these commonalities, it is not surprising that business analysis training, including business 
+analysis certification exam prep, often qualifies for Professional Development units (PDUs) to maintain 
+Project Management Professional (PMP) certification.  Part 3, the last of this series of articles,
+ explores the relationship between business analysis and project management – and most important what 
+ that means to you, and examines why you, as a project manager, might want to consider business analysis 
+ certification
+.%%%%%%%%%%%

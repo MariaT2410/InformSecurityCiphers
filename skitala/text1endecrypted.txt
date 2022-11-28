@@ -1,0 +1,8 @@
+When your phone connects to the web, prying eyes can snoop on every site you visit. To protect your privacy, put a virtual private network, or VPN, 
+between your phone and the internet. Instead of connecting directly to a website, you’ll connect to your VPN’s servers, which will then route you to 
+the page. This will hide your browsing from prying eyes, but it can also slow down the speed at which pages load. However, its benefits override this quibble. 
+For example, because a VPN can connect to servers anywhere in the world, it will let you visit a video portal or a news site as if you were in a different
+ country—which will allow you to access different content as a result. Of course, security is still the main reason to download a VPN to your phone. Any
+ connections you make will receive secure encryption, so nobody can look at your online activity. This is particularly important on public WiFi networks 
+like the ones in hotels or coffee shops, where anyone else can get on the same network. Using a VPN makes it much harder for the owners of the network, 
+your internet service provider (ISP), or anyone else to follow you around the internet.%%%%%%%%%

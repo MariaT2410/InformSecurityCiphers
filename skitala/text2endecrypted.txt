@@ -1,0 +1,9 @@
+Part 1 explored why, as a project manager, business analysis skills are important and why you might 
+want to expand your business analysis knowledge and credentials.  Part 2 explores the basics of business 
+analysis, giving you a look at the knowledge areas of business analysis, highlighting the commonalities 
+with a number of knowledge areas of project management.
+The Business Analysis Body of Knowledge, or BABOK, is the Business Analysis Standard of the International
+ Institute of Business Analysts (IIBA).  The Guide to the Project Management Body of Knowledge, or PMBOK 
+ Guide, is the Project Management Standard of the Project Management Institute (PMI).  The BABOK has 6 
+ Knowledge Areas, whereas the PMBOK contains 10 Knowledge Areas.  Here is a high level review of the 
+ BABOK Knowledge Areas, plus brief discussion of commonalities with Knowledge Areas of the PMBOK Guide.%%%%%%%%%%%
